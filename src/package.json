@@ -1,0 +1,62 @@
+{
+  "name": "Exemplary_Computer_System",
+  "description": "Example computer system, used by Facebook",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 6,
+      "claimCount": 4,
+      "independentCount": 4,
+      "drawingCount": 1,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p><span data-role=\"tag\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" id=\"id37f2692e-047c-ff40-bd45-7aa6198f32cb\" data-type=\"figure\">Figure 1</span> illustrates an example <span data-role=\"tag\" data-value=\"9cf67701-04b8-0e87-d1be-a29975edff9f\" id=\"idc895f439-a879-3405-be66-949dc9560051\" data-type=\"term\">computer system</span></p>"
+    ],
+    "parts": [
+      {
+        "name": "computer system",
+        "number": 102
+      },
+      {
+        "name": "memory",
+        "number": 104
+      },
+      {
+        "name": "bus",
+        "number": 106
+      },
+      {
+        "name": "storage",
+        "number": 108
+      },
+      {
+        "name": "processor",
+        "number": 110
+      },
+      {
+        "name": "I/O interface",
+        "number": 112
+      },
+      {
+        "name": "communication interface",
+        "number": 114
+      }
+    ],
+    "terms": [
+      "processor",
+      "I/O interface",
+      "communication interface",
+      "bus",
+      "computer system",
+      "computer program"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Exemplary_Computer_System"
+}
